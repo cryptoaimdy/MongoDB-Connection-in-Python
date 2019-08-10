@@ -1,5 +1,9 @@
 **Download and Install MongoDB, Set Path**
 
+Read my MEDIUM Story on "How to Install MongoDB and CRUD Operations"
+
+https://medium.com/@mohammadali1ali/mongodb-installation-and-crud-commands-dd0972a9be6c
+
 **Download and install Pycharm IDE**
 
 **Install Pymongo(a mongodb library for python) using "pip install pymongo" command in the terminal(you can use pycharm terminal also)**
