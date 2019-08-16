@@ -22,10 +22,12 @@ Read my MEDIUM Story on "How to Install MongoDB and CRUD Operations"
 https://medium.com/@mohammadali1ali/mongodb-installation-and-crud-commands-dd0972a9be6c
 
 
-**Library Used**
-+ Pymongo
+**Libraries to connect mongoDB to Python**
++ Pymongo is a great library for MongoDB Connectivity.
 + MongoEngine is also a library to connect mongoDB  with python but we ll prefer pymongo here.
 + MongoKit is a Python-module, a PyMongo wrapper, that brings structured schemes and screening layer.
+
+We ll Use Pymongo Library. Pymongo is officially recommended for MongoDB connectivity.
 
 **IDE Used and version**
 + PyCharm ( PyCharm is recommed IDE for Python, you can use any IDE that supports Python)
