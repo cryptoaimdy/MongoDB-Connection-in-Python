@@ -41,5 +41,6 @@ We ll Use Pymongo Library. Pymongo is officially recommended for MongoDB connect
 
 # Running the Code!
 
-+Give the Configuration of your MongoDB server into userdata.py file('mongodb://localhost:27017') and cd to location where
++ Give the Configuration of your MongoDB server into userdata.py file('mongodb://localhost:27017') and cd to location where
 you saved "userdata.py" file and run this command "python userdata.py"
++ Or u can directly click on Run in PyCharm IDE to run the program
