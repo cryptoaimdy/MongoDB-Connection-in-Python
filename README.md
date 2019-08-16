@@ -23,9 +23,9 @@ https://medium.com/@mohammadali1ali/mongodb-installation-and-crud-commands-dd097
 
 
 **Library Used**
-Pymongo
-MongoEngine is also a library to connect mongoDB  with python but we ll prefer pymongo here.
-MongoKit is a Python-module, a PyMongo wrapper, that brings structured schemes and screening layer.
++ Pymongo
++ MongoEngine is also a library to connect mongoDB  with python but we ll prefer pymongo here.
++ MongoKit is a Python-module, a PyMongo wrapper, that brings structured schemes and screening layer.
 
 **IDE Used and version**
 + PyCharm ( PyCharm is recommed IDE for Python, you can use any IDE that supports Python)
