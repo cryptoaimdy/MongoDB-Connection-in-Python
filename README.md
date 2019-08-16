@@ -1,4 +1,8 @@
-As we know MongoDB is used for historic data(data related to time). 
+MongoDB is a NoSQL database used for storing large amount of data. Instead of using tables and rows, MongoDB uses Collections and documents.
+
+Python is an Object Oriented Programming Language and is considered very convenient to take in if working on Objects. Python is easy to understand beacuase it has english like syntax and does the work in few lines of code.
+
+As we know MongoDB is used for historic and large amount of data(data related to time). here we ll know about how to connect MongoDB in Python using a library called "Pymongo". Python has another libraries also to connect MongoDB but pymongo is most preferred library.
 
 **Download and Install MongoDB, Set Path**
 
@@ -14,6 +18,7 @@ https://medium.com/@mohammadali1ali/mongodb-installation-and-crud-commands-dd097
 
 ***Library Used***
 --Pymongo
+--MongoEngine is also a library to connect mongoDB  with python but we ll prefer pymongo here.
 
 ***IDE Used and version***
 PyCharm ( PyCharm is recommed IDE for Python, you can use any IDE that supports Python)
