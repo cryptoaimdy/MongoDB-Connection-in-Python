@@ -17,7 +17,7 @@ As we know MongoDB is used for historic and large amount of data(data related to
 
 **Download and Install MongoDB, Set Path**
 
-Read my MEDIUM Story on "How to Install MongoDB and CRUD Operations"
+Read my MEDIUM Story on "How to Install MongoDB and perform CRUD Operations"
 
 https://medium.com/@mohammadali1ali/mongodb-installation-and-crud-commands-dd0972a9be6c
 
