@@ -23,4 +23,17 @@ coin_3 = {'coinname' : 'ripple',
 
 #inserting data if only one data is there we can use insert_one instead insert_many.
 result = coin.insert_many([coin_1,coin_2,coin_3])
+
+print(result.inserted_ids)
+
+#Finding a data
+find_a_coin = coin.find_one({'coinname': 'ripple'})
+print(find_a_coin)
+# updating 
+coin.update_one({'coinname':'bitcoin'}, { '$set' :{'coinname':'EthereumClassic'} })
+# finding the updated one
+coin.find_one({'coinname': 'EthereumClassic'})
+
 print(result)
+#Deleting the data
+coin.delete_one({'coinname': 'ether'})
