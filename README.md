@@ -38,6 +38,14 @@ We ll Use Pymongo Library. Pymongo is officially recommended for MongoDB connect
 + Create a work directory any where on the localmachine(desktop) and open that directory into Pycharm-->Open project.
 + Install Pymongo(a mongodb library for python) using "pip install pymongo" command in the terminal(you can use pycharm terminal also)
 + create a userdata.py file into that directory and import all the required libraries first(pyMongo) then create a connect to MongoDB and then create Objects to store in database.
++ Commands for the CRUD Operations are:
+-db.collection.insert_one()
+-db.collection.insert_many()
+-db.collection.find_one()
+-db.collection.update_one()
+-db.collection.delete_one()
+-db.collection.delete_many()
+
 
 # Running the Code!
 
